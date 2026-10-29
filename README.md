@@ -1,2 +1,1 @@
-# cs-AVI-Writer
-An AVI writer vor csharp
+# An AVI Writer for C-Sharp
